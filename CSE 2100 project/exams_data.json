@@ -1,0 +1,130 @@
+{
+    "students": {
+        "rimi": {
+            "fullname": "rimi",
+            "password": "123"
+        }
+    },
+    "teachers": {
+        "maisha": {
+            "fullname": "maisha",
+            "password": "123"
+        },
+        "arpita": {
+            "fullname": "arpita",
+            "password": "123"
+        },
+        "shyla": {
+            "fullname": "shyla ",
+            "password": "1234"
+        }
+    },
+    "exams": {
+        "math": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "math2": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "a": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": [
+                {
+                    "question": "1-1",
+                    "options": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "correct_answer": 1
+                }
+            ]
+        },
+        "c": {
+            "duration": 2,
+            "total_questions": 1,
+            "questions": []
+        },
+        "d": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "e": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "f": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "g": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "h": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "i": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "1": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "2": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "3": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "4": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "5": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "6": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "7": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "cse": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        },
+        "cse11": {
+            "duration": 1,
+            "total_questions": 1,
+            "questions": []
+        }
+    }
+}

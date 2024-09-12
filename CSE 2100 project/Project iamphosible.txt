@@ -1,0 +1,12 @@
+Window 1
+Login (As student, as teacher)
+Signup
+If already logged in - open main window
+
+Sign up page (As teacher and student)
+Login page (,,)
+
+Teacher's question setting and other details
+Student's answering and results
+
+// use python tkinter gui
